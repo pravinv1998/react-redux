@@ -10,7 +10,7 @@ function App() {
   const dispatch = useDispatch();
   return (
     <div className="container">
-      <h1>Increment/Decrement Counter</h1>
+      <h1>Example Increment/Decrement Counter</h1>
       <h2>Using React Redux</h2>
 
       <div>
